@@ -1,2 +1,2 @@
 # odin-recipes
-Odin Recipes!
+Odin Recipes! Putting my HTML knowledge into this! 
